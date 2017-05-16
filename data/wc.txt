@@ -1,0 +1,3 @@
+hadoop hd1 mr
+mr hd1 hadoop hd1 mr
+mr hd1

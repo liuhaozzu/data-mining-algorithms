@@ -1,2 +1,6 @@
 # data-mining-algorithms
-data mining algorithm -based on Hadoop-2.7.3
+data mining algorithm --based on **Hadoop-2.7.3**
+## PageRank
+* 
+
+	
